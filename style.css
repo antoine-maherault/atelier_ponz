@@ -152,13 +152,13 @@
 }
 
 .contact_background{
-  background-image: url("https://wallup.net/wp-content/uploads/2019/09/455828-construction-work-building-job-profession-architecture-design-1.jpg");
+  background-image: url("content/background.jpeg");
   background-size : 1450px;;
   height: 150px;
   background-position : 0 -55px;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position :fixed;
+  background-position :center;
 }
 
 /*////////// Style the presentation + slideshow //////////*/
